@@ -1,0 +1,15 @@
+/Users/mak/Desktop/семинары/sem8/ex3/bin/Debug/net7.0/ex3
+/Users/mak/Desktop/семинары/sem8/ex3/bin/Debug/net7.0/ex3.deps.json
+/Users/mak/Desktop/семинары/sem8/ex3/bin/Debug/net7.0/ex3.runtimeconfig.json
+/Users/mak/Desktop/семинары/sem8/ex3/bin/Debug/net7.0/ex3.dll
+/Users/mak/Desktop/семинары/sem8/ex3/bin/Debug/net7.0/ex3.pdb
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.csproj.AssemblyReference.cache
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.AssemblyInfoInputs.cache
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.AssemblyInfo.cs
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.dll
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/refint/ex3.dll
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.pdb
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ex3.genruntimeconfig.cache
+/Users/mak/Desktop/семинары/sem8/ex3/obj/Debug/net7.0/ref/ex3.dll

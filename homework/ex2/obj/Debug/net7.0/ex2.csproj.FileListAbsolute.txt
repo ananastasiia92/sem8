@@ -1,0 +1,15 @@
+/Users/mak/Desktop/семинары/sem8/homework/ex2/bin/Debug/net7.0/ex2
+/Users/mak/Desktop/семинары/sem8/homework/ex2/bin/Debug/net7.0/ex2.deps.json
+/Users/mak/Desktop/семинары/sem8/homework/ex2/bin/Debug/net7.0/ex2.runtimeconfig.json
+/Users/mak/Desktop/семинары/sem8/homework/ex2/bin/Debug/net7.0/ex2.dll
+/Users/mak/Desktop/семинары/sem8/homework/ex2/bin/Debug/net7.0/ex2.pdb
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.csproj.AssemblyReference.cache
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.AssemblyInfoInputs.cache
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.AssemblyInfo.cs
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.dll
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/refint/ex2.dll
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.pdb
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ex2.genruntimeconfig.cache
+/Users/mak/Desktop/семинары/sem8/homework/ex2/obj/Debug/net7.0/ref/ex2.dll

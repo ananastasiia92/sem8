@@ -57,8 +57,8 @@ void ChangeRows(int[,] inArray, int a, int b)
 {
     for (int i = 0; i < inArray.GetLength(1); i++)
     {
-        int k = inArray[a - 1, i];
+        int tmp = inArray[a - 1, i];
         inArray[a - 1, i] = inArray[b - 1, i];
-        inArray[b - 1, i] = k;
+        inArray[b - 1, i] = tmp;
     }
 }
